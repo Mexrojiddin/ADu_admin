@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "76266209137",
+    "project_id": "adu-app-5712b",
+    "storage_bucket": "adu-app-5712b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76266209137:android:0aaac8d1ad7972828800d0",
+        "android_client_info": {
+          "package_name": "com.mexrojiddin.aduadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76266209137-38htosra095igqhjuk7eorulca7b4rs4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT2b1_lixWojbWaudzszslCCvoF0kjf7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76266209137-38htosra095igqhjuk7eorulca7b4rs4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
